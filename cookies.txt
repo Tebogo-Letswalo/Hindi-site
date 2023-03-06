@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.classcentral.com	TRUE	/report/	FALSE	1999999999	ppwp_wp_session	35b63c06067195e7dd70f846809bdfb8%7C%7C1678115700%7C%7C1678115340
+www.classcentral.com	TRUE	/	FALSE	1999999999	PHPSESSID	k4ne4i73nonjdrp52audf2ukbg
+www.classcentral.com	TRUE	/	FALSE	1999999999	samesite	lax
+chart-studio.plotly.com	TRUE	/	FALSE	1999999999	GCLB	CNew9ruK-bq32gE
+plot.ly	TRUE	/	FALSE	1999999999	GCLB	CL_1obPO_5GogQE
+www.classcentral.com	TRUE	/	FALSE	1999999999	cf_use_ob	0
+.plotly.com	TRUE	/	FALSE	1999999999	plotly_csrf_pr	2KGVGJfGyOHVB9S3DwvJkBRTIjYZj1dW
+.plotly.com	TRUE	/	FALSE	1999999999	plotly_anoncsrf_pr	gAu3h8lZdgxulAktZ8fKXCXPlhLALjdD
+.plotly.com	TRUE	/	FALSE	1999999999	plotly_sess_pr	n3u9o5f59h2zdaz4q4qanazxcccnkz4i
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	ZA:GP:Pretoria:-25.76:28.26:v4
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	06-Mar-2023
+
